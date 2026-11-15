@@ -3,9 +3,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D1B2&center=true&vCenter=true&width=600&lines=Mahasiswa+Teknik+Informatika+Polije;Membangun+Sistem+Parkir+Pintar+berbasis+IoT;Web+%7C+Mobile+%7C+IoT+Developer;Selalu+belajar%2C+selalu+berkembang+ğŸš€"  />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D1B2&center=true&vCenter=true&width=600&lines=Mahasiswa+Teknik+Informatika+Polije;Membangun+Sistem+Parkir+Pintar+berbasis+IoT;Web+%7C+Mobile+%7C+IoT+Developer;Selalu+belajar%2C+selalu+berkembang+ğŸš€" alt="typing" />
 
 <br/>
 
@@ -91,11 +89,6 @@ sekarang  : Mengembangkan Sistem Parkir Pintar berbasis IoT dan Sistem Cerdas ğŸ
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Firdo206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firdo206&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top langs" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Firdo206&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
 
 </div>
@@ -105,10 +98,8 @@ sekarang  : Mengembangkan Sistem Parkir Pintar berbasis IoT dan Sistem Cerdas ğŸ
 ## ğŸ Kontribusi
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Firdo206/Firdo206/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
-
-> ğŸ’¡ Animasi ular di atas butuh GitHub Action tambahan. Kalau belum diaktifkan, hapus bagian ini atau tanya saya cara setupnya.
 
 ---
 
@@ -117,8 +108,8 @@ sekarang  : Mengembangkan Sistem Parkir Pintar berbasis IoT dan Sistem Cerdas ğŸ
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Firdo206-181717?style=for-the-badge&logo=github)](https://github.com/Firdo206)
-[![Instagram](https://img.shields.io/badge/Instagram-username-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@skyzfirr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nama%20Kamu-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Firdo Al Farobbi)
+[![Instagram](https://img.shields.io/badge/Instagram-@skyzfirr-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/skyzfirr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Firdo%20Al%20Farobbi-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/firdo-al-farobbi)
 [![Email](https://img.shields.io/badge/Email-Kirim%20Pesan-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firdoalfarobbi8@gmail.com)
 
 </div>
