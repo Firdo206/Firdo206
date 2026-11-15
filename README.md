@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D1B2&center=true&vCenter=true&width=600&lines=Mahasiswa+Teknik+Informatika+Polije;Membangun+Sistem+Parkir+Pintar+berbasis+IoT;Web+%7C+Mobile+%7C+IoT+Developer;Selalu+belajar+selalu+berkembang" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D1B2&center=true&vCenter=true&width=600&lines=Mahasiswa+Teknik+Informatika+Polije;Membuat+Solusi+IoT+Web+dan+Mobile;Web+%7C+Mobile+%7C+IoT+Developer;Selalu+belajar+selalu+berkembang" alt="typing" />
 
 <br/>
 
@@ -23,10 +23,10 @@ nama      : Firdo
 kampus    : Politeknik Negeri Jember
 jurusan   : Teknik Informatika (Semester 5)
 fokus     : Web • Mobile • IoT • Sistem Cerdas
-sekarang  : Mengembangkan Sistem Parkir Pintar berbasis IoT dan Sistem Cerdas 🚗
+unggulan  : Sistem Parkir Pintar berbasis IoT 🚗
 ```
 
-- 🔭 Sedang mengembangkan **sistem parkir pintar berbasis IoT**
+- 🔭 Membangun solusi **IoT yang terintegrasi dengan web dan mobile**
 - 🌱 Terus memperdalam **Laravel, Flutter, dan Python**
 - 👯 Terbuka untuk kolaborasi di proyek **IoT, Mobile (Flutter), dan Web (Laravel)**
 - 🤝 Ingin belajar lebih dalam soal **integrasi IoT dengan web dan mobile**
@@ -61,7 +61,7 @@ sekarang  : Mengembangkan Sistem Parkir Pintar berbasis IoT dan Sistem Cerdas �
     <td width="50%" valign="top">
       <h3>🅿️ Sistem Parkir Pintar</h3>
       <p>Sistem parkir berbasis <b>IoT</b> yang terintegrasi dengan <b>web dan mobile</b>.</p>
-      <p><img src="https://img.shields.io/badge/Status-Dalam%20Pengembangan-orange?style=flat-square" /> <img src="https://img.shields.io/badge/IoT-00979D?style=flat-square" /> <img src="https://img.shields.io/badge/Web-FF2D20?style=flat-square" /> <img src="https://img.shields.io/badge/Mobile-02569B?style=flat-square" /></p>
+      <p><img src="https://img.shields.io/badge/IoT-00979D?style=flat-square" /> <img src="https://img.shields.io/badge/Web-FF2D20?style=flat-square" /> <img src="https://img.shields.io/badge/Mobile-02569B?style=flat-square" /></p>
     </td>
     <td width="50%" valign="top">
       <h3>🏃 Aplikasi Pengukur Kemampuan Siswa Olahraga</h3>
