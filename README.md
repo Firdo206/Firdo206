@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D1B2&center=true&vCenter=true&width=600&lines=Mahasiswa+Teknik+Informatika+Polije;Membangun+Sistem+Parkir+Pintar+berbasis+IoT;Web+%7C+Mobile+%7C+IoT+Developer;Selalu+belajar%2C+selalu+berkembang+🚀" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D1B2&center=true&vCenter=true&width=600&lines=Mahasiswa+Teknik+Informatika+Polije;Membangun+Sistem+Parkir+Pintar+berbasis+IoT;Web+%7C+Mobile+%7C+IoT+Developer;Selalu+belajar+selalu+berkembang" alt="typing" />
 
 <br/>
 
