@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D1B2&center=true&vCenter=true&width=600&lines=Mahasiswa+Teknik+Informatika+Polije;Membangun+Sistem+Parkir+Pintar+berbasis+IoT;Web+%7C+Mobile+%7C+IoT+Developer;Selalu+belajar%2C+selalu+berkembang+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D1B2&center=true&vCenter=true&width=600&lines=Mahasiswa+Teknik+Informatika+Polije;Membangun+Sistem+Parkir+Pintar+berbasis+IoT;Web+%7C+Mobile+%7C+IoT+Developer;Selalu+belajar%2C+selalu+berkembang+🚀"  />
 </a>
 
 <br/>
@@ -117,9 +117,9 @@ sekarang  : Mengembangkan Sistem Parkir Pintar berbasis IoT dan Sistem Cerdas �
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Firdo206-181717?style=for-the-badge&logo=github)](https://github.com/Firdo206)
-[![Instagram](https://img.shields.io/badge/Instagram-username-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_KAMU)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nama%20Kamu-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/USERNAME_KAMU)
-[![Email](https://img.shields.io/badge/Email-Kirim%20Pesan-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_KAMU@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-username-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@skyzfirr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nama%20Kamu-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Firdo Al Farobbi)
+[![Email](https://img.shields.io/badge/Email-Kirim%20Pesan-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firdoalfarobbi8@gmail.com)
 
 </div>
 
